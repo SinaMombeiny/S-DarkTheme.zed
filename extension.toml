@@ -1,6 +1,7 @@
 id = "s-darktheme"
 name = "S-Dark Theme"
 version = "1.0.0"
+schema_version = 1
 authors = ["Sina Mombeiny <SMombeiny@proton.me>"]
 description = "A beautiful dark theme."
 repository = "https://github.com/sinamombeiny/S-DarkTheme.zed"
