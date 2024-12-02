@@ -1,6 +1,6 @@
 id = "s-dark-theme"
 name = "S-Dark Theme"
-version = "1.0.1"
+version = "1.0.3"
 schema_version = 1
 authors = ["Sina Mombeiny <SMombeiny@proton.me>"]
 description = "A beautiful dark theme."
