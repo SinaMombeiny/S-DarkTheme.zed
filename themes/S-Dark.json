@@ -53,7 +53,7 @@
         "tab_bar.background": "#090B0DFF",
         "tab.inactive_background": "#090B0DFF",
         "tab.active_background": "#1A1B1FFF",
-        "search.match_background": "#e4840057",
+        "search.match_background": "#D99F1657",
         "panel.background": "#050707FF",
         "panel.focused_border": "#396BD588",
         "panel.indent_guide": "#24272C99",
@@ -153,17 +153,17 @@
         "unreachable.border": "#77777744",
         "warning": "#D99F16E6",
         "warning.background": "#D99F1622",
-        "warning.border": "#D99F1622",
+        "warning.border": "#D99F1655",
         "players": [
           {
-            "cursor": "#1a2251",
+            "cursor": "#396BD5FF",
             "background": "#1a2251",
-            "selection": "#1a2251"
+            "selection": "#1a225166"
           },
           {
             "cursor": "#e1a51ae6",
             "background": "#e1a51ae6",
-            "selection": "#e1a51ae6"
+            "selection": "#e1a51a66"
           },
           {
             "cursor": "#9C67F5E6",
@@ -318,7 +318,7 @@
             "font_weight": null
           },
           "string": {
-            "color": "#4168b2",
+            "color": "#6FA85CE6",
             "font_style": null,
             "font_weight": null
           },
