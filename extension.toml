@@ -1,6 +1,6 @@
 id = "s-dark-theme"
 name = "S-Dark Theme"
-version = "2.0.0"
+version = "2.0.3"
 schema_version = 1
 authors = ["Sina Mombeiny"]
 description = "A premium, clean, and easy-on-the-eyes dark theme."
