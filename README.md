@@ -16,7 +16,7 @@ Alternatively:
 
 1. Open Zed.
 2. Open the Extensions panel.
-3. Search for **S-Dark Theme**.
+3. Search for _"id:s-dark-theme"_.
 4. Install the theme.
 ---
 
