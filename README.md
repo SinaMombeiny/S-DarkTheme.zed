@@ -2,7 +2,7 @@
 
 A dark theme for [Zed](https://zed.dev/) focused on a clean, comfortable, and minimal editing experience.
 
-S-Dark is designed with a dark interface, balanced contrast, and carefully chosen colors to keep code readable without being too harsh on the eyes. It has been installed over 52K times on Zed.
+S-Dark is designed with a dark interface, balanced contrast, and carefully chosen colors to keep code readable without being too harsh on the eyes. It has been installed over 53K times on Zed.
 
 ## Preview
 
