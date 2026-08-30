@@ -2,7 +2,16 @@
 
 A dark theme for [Zed](https://zed.dev/) focused on a clean, comfortable, and minimal editing experience.
 
-S-Dark is designed with a dark interface, balanced contrast, and carefully chosen colors to keep code readable without being too harsh on the eyes. It has been installed over 53K times on Zed.
+S-Dark comes in three variants:
+
+- **S-Dark Cobalt** — the original blue accent version
+- **S-Dark Violet** — a softer purple variant with warmer syntax colors
+- **S-Dark Onyx** — pure black UI with the same warm syntax palette as Violet
+
+Designed with balanced contrast and carefully chosen colors to keep code readable without being harsh on the eyes. Installed over 53K times on Zed.
+
+For Zed Customization Settings that I use, you can check this wiki:  
+[Zed Customization Settings](https://github.com/SinaMombeiny/S-DarkTheme.zed/wiki/Zed-Customization-Settings)
 
 ## Preview
 
