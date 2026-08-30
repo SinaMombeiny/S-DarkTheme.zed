@@ -15,7 +15,7 @@
           "#9C67F5E6",
           "#B8524AFF"
         ],
-        "border": "#0E11141F",
+        "border": "#0E111400",
         "border.variant": "#11141A00",
         "border.focused": "#396BD5CC",
         "border.selected": "#396BD5FF",
@@ -53,7 +53,7 @@
         "tab_bar.background": "#090B0DFF",
         "tab.inactive_background": "#090B0DFF",
         "tab.active_background": "#1A1B1FFF",
-        "search.match_background": "#b2b00070",
+        "search.match_background": "#B5B38140",
         "panel.background": "#000000FF",
         "panel.focused_border": "#172033",
         "panel.indent_guide": "#242422",
@@ -70,9 +70,9 @@
         "editor.background": "#0D0F13FF",
         "editor.gutter.background": "#0D0F13FF",
         "editor.subheader.background": "#14171FFF",
-        "editor.active_line.background": "#11141AFF",
+        "editor.active_line.background": "#11141A00",
         "editor.highlighted_line.background": "#11161DFF",
-        "editor.line_number": "#DEDCD550",
+        "editor.line_number": "#DEDCD53D",
         "editor.active_line_number": "#c6c3b7ee",
         "editor.invisible": "#DEDCD522",
         "editor.wrap_guide": "#191919",
@@ -123,7 +123,7 @@
         "deleted.border": "#CB767655",
         "error": "#C65858FF",
         "error.background": "#0D0F13FF",
-        "error.border": "#d15c5944",
+        "error.border": "#D15C594D",
         "hidden": "#777777",
         "hidden.background": "#77777716",
         "hidden.border": "#77777744",
@@ -153,12 +153,12 @@
         "unreachable.border": "#77777744",
         "warning": "#C79F6FFF",
         "warning.background": "#0D0F13FF",
-        "warning.border": "#e5c07b44",
+        "warning.border": "#E5C07B4D",
         "players": [
           {
             "cursor": "#36A1FFFF",
             "background": "#1a2251",
-            "selection": "#0D2961B3"
+            "selection": "#1f2140f5"
           },
           {
             "cursor": "#e1a51ae6",
@@ -570,7 +570,7 @@
           {
             "cursor": "#736099FF",
             "background": "#0f1118",
-            "selection": "#73609933"
+            "selection": "#26243b"
           }
         ],
         "syntax": {
@@ -968,7 +968,7 @@
           {
             "cursor": "#736099FF",
             "background": "#000000FF",
-            "selection": "#73609933"
+            "selection": "#201e2e"
           }
         ],
         "syntax": {
