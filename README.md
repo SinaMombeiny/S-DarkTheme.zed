@@ -8,7 +8,7 @@ S-Dark comes in three variants:
 - **S-Dark Violet** — a softer purple variant with warmer syntax colors
 - **S-Dark Onyx** — pure black UI with the same warm syntax palette as Violet
 
-Designed with balanced contrast and carefully chosen colors to keep code readable without being harsh on the eyes. Installed over 56K times on Zed.
+Designed with balanced contrast and carefully chosen colors to keep code readable without being harsh on the eyes. It has been downloaded over 56K times on Zed.
 
 For Zed Customization Settings that I use, you can check this wiki:  
 [Zed Customization Settings](https://github.com/SinaMombeiny/S-DarkTheme.zed/wiki/Zed-Customization-Settings)
